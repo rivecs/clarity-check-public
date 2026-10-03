@@ -1,14 +1,14 @@
 # Clarity-Check
 
-I created Clarity-Check as a little space for understanding. Start with a sample clarity map, then reflect at your own pace.
+The public Clarity-Check page introduces guided reflection: try a sample clarity map, then reflect together at your own pace.
 
-## Build decisions
+## Product decision
 
-I give people a concrete example before asking them to begin, and leave the pace of reflection with them. The product is meant to make room to understand a question before rushing toward an answer.
+I wanted the first step to be something people can look at before they begin. The sample map shows the shape of the exercise; the pace stays with the people using it.
 
-This repository contains project notes and links, not application source.
+This repository contains project notes and links, not application source. These notes stick to the product details shown on the public page.
 
 ## Links
 
 - [Clarity-Check](https://clarity-check.app)
-- [Portfolio project notes](https://portfolio.aerovisus.com/#clarity-check)
+- [Portfolio notes](https://portfolio.aerovisus.com/#clarity-check)
